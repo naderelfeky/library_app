@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="id">ID EX:  30102141711473</string>
+    <string name="confirm_password"> confirm password</string>
+    <string name="file">File</string>
+    <string name="create_new">create_new</string>
+    <string name="open">open</string>
+
+
+</resources>
